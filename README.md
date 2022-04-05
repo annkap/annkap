@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Ania
+- 👀 I’m interested in developing my QA skills
