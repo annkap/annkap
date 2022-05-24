@@ -1,2 +1,3 @@
 - 👋 Hi, I’m Ania
 - 👀 I’m interested in developing my QA skills
+- I created few Java projects that you can see on my profile
